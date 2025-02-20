@@ -1,18 +1,31 @@
-# catgame-pygame
+# CatGame - Pygame
+
 A fun little game where the objective is to catch the cats
 
-Play on the web: [https://siryazgan.itch.io/meoww](https://siryazgan.itch.io/meoww)
+## Play Online
 
-Your goal is to capture the cats.
+Try the game on the web:  
+[Play CatGame](https://siryazgan.itch.io/meoww)
 
-The orange cats are 1 points
+## How to Play
 
-The black cats are 5 points
+- **Objective:** Capture as many cats as you can.
+- **Combo System:**  
+  - Chain combos by capturing cats within a **2-second cooldown** to earn bonus points.
 
-The golden cats are 10 points and slow the time down for 5 seconds
+## Scoring
 
-Combo cooldown is 2 seconds, chain combos to earn bigger points
+- **Orange Cats:** 1 point
+- **Black Cats:** 5 points
+- **Golden Cats:**  
+  - 10 points  
+  - Slows down time for 5 seconds
 
-Press P to pause the game
+## Controls
 
-The cat assets are from: [https://free-game-assets.itch.io/free-street-animal-pixel-art-asset-pack](https://free-game-assets.itch.io/free-street-animal-pixel-art-asset-pack)
+- **P:** Pause the game
+
+## Assets
+
+Cat assets are provided by:  
+[Free Street Animal Pixel Art Asset Pack](https://free-game-assets.itch.io/free-street-animal-pixel-art-asset-pack)
