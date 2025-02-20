@@ -3,6 +3,7 @@ import pygame
 import random
 import os, sys
 
+# This function is for the python file to be compilable with PyInstaller, nothing to do with the game itself.
 def resource(relative_path):
     base_path = getattr(
         sys,
