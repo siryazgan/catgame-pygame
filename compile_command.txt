@@ -1,0 +1,3 @@
+for the executable: python3 -m PyInstaller --onefile --windowed --add-data assets:assets --icon=icon.icns main.py
+
+for the web build: python3 -m pygbag --icon game_data/assets/icon_png.png --template index.html --archive game_data
